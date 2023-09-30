@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5hFSQEAqfZZ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">C779 Flash Card Game</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="C779_Flash_Card_Game_ORG">
+    <organization identifier="C779_Flash_Card_Game_ORG">
+      <title>C779 Flash Card Game</title>
+      <item identifier="CardStack_SCO" isvisible="true" identifierref="__5hFSQEAqfZZ_course_id_RES">
+        <title>CardStack</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5hFSQEAqfZZ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6f480KyRwY4_44100_48_0.mp3" />
+      <file href="mobile/6EHnP60idOJ.png" />
+      <file href="story_content/video_5n7KHsIhvBl_22_48_898x506.mp4" />
+      <file href="mobile/poster_5WlJiWJr7Ai_video_5n7KHsIhvBl_22_48_898x506.jpg" />
+      <file href="mobile/6HJrPYT7xSM.png" />
+      <file href="mobile/6PuZQc5bzUI.png" />
+      <file href="mobile/5flKhqglMgj.png" />
+      <file href="mobile/6GZ0P8kpVNp.png" />
+      <file href="mobile/5h4LXI22W3z.png" />
+      <file href="mobile/6gNCiMyHoXb.png" />
+      <file href="story_content/5YPP6DCuPd5_44100_48_0.mp3" />
+      <file href="story_content/5scAmTPrB7p_44100_48_0.mp3" />
+      <file href="mobile/poster_66WnnRKwkYh_video_5n7KHsIhvBl_22_48_898x506.jpg" />
+      <file href="mobile/64UkeCP4JlL.png" />
+      <file href="mobile/poster_5lWjAqShoYz_video_5n7KHsIhvBl_22_48_898x506.jpg" />
+      <file href="story_content/5nI9zCGvE9o_44100_48_0.mp3" />
+      <file href="story_content/5zmQtsu1WsC_44100_48_0.mp3" />
+      <file href="story_content/6H7ddGbT9Q1_44100_48_0.mp3" />
+      <file href="mobile/6mW3LSNBlbt.png" />
+      <file href="story_content/655DQs7vac9_44100_48_0.mp3" />
+      <file href="mobile/poster_6kLR4YU849Q_video_5n7KHsIhvBl_22_48_898x506.jpg" />
+      <file href="story_content/6TnLjhBIRO9_44100_48_0.mp3" />
+      <file href="story_content/6XioT3XI4Rl_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_66iuWPX74RU.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bih2X7zdMZ.js" />
+      <file href="html5/data/js/6hlj9AZCVhQ.js" />
+      <file href="html5/data/js/6MYKfAES8ZO.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
